@@ -1,1 +1,1 @@
-# portfolio
+I’m a front-end web developer with a passion for design and detail. I specialize in building responsive, mobile-first websites using HTML, CSS, and Bootstrap. My goal is to create web interfaces that not only look great but also deliver smooth and engaging user experiences. I’m always exploring new design trends and web technologies to sharpen my skills and bring fresh ideas to every project.
